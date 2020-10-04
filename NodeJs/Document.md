@@ -1,7 +1,7 @@
-# PKCE - Generate a PKCE Code Challenge and a Code Verifier
+# PKCE - Generate a PKCE Code Challenge and a Code Verifier value
 
 ## Introduction
-You can use the NodeJs library to generate a code challenge and a code verifier for OAuth and OIDC authorizarization. The sample program, `index.js`, uses this library.
+You can use the NodeJs library to generate a code challenge and a code verifier for OAuth and OIDC authorization. The sample program, `index.js`, uses this library.
 
 
 ## How to use this library in a NodeJs application
