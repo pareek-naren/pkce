@@ -6,7 +6,7 @@ You can use the Golang library to generate a code challenge and a code verifier 
 ## How to use this library in a Golang application
 
 ### Preprequisite
-Go lang must be installed on your system. If you haven't installed Go lang, install it using the following command:
+Golang must be installed on your system. If you haven't installed Golang, install it using the following command:
 `sudo apt install golang-go`
 
 1. Make a directory to run your Go files. In this example, I have named the directory `pkce`.
