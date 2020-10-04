@@ -14,7 +14,7 @@ You can use the NodeJs library to generate a code challenge and a code verifier 
 4. Start and run the project: 
         `node index.js`
 
-It will generate the `code_verifier` and `code_challenge` values. You can use these values in the OAuth and OIDC authorizarization code flow.
+It will generate the `code_verifier` and `code_challenge` values. You can use these values in the OAuth and OIDC authorization code flow.
 
 
 
