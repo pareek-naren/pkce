@@ -8,6 +8,9 @@ Check the [Golang installation guide](Golang/Document.md) for instructions to us
 ## Nodejs
 Check the [NodeJs installation guide](NodeJs/Document.md) for instructions to use this application.
 
+## Python
+Check the [Python installation guide](Python/Document.md) for instructions to use this application.
+
 
 # How to contribute
 
