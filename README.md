@@ -21,11 +21,10 @@ Please check the [contributing guide](CONTRIBUTING.md) to become a contributor.
 # Related articles
 
 ## PKCE
-* [What the heck is PKCE](https://medium.com/identity-beyond-borders/what-the-heck-is-pkce-40662e801a76)
 * [Understanding PKCE](https://www.loginradius.com/engineering/blog/pkce/)
+* [What the heck is PKCE](https://medium.com/identity-beyond-borders/what-the-heck-is-pkce-40662e801a76)
 ## OAuth 
 * [What is the difference between OAuth1 and OAuth2?](https://www.loginradius.com/engineering/blog/what-is-the-difference-between-oauth1-and-oauth2/)
 * [The Simplest Guide To OAuth 2.0](https://medium.com/@darutk/the-simplest-guide-to-oauth-2-0-8c71bd9a15bb)
 ## OpenID
 * [Diagrams of All The OpenID Connect Flows](https://medium.com/@darutk/diagrams-of-all-the-openid-connect-flows-6968e3990660)
-* [OAuth vs. OpenID – What’s the difference?](https://www.gluu.org/blog/oauth-vs-openid-whats-the-difference/#:~:text=workflow%20for%20authentication.-,The%20big%20difference%20between%20OpenID%20Connect%20and%20OAuth2%20is%20the,close%20to%20Google's%20authentication%20API.)
