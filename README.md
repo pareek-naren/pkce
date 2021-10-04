@@ -1,5 +1,5 @@
 # PKCE
-You can use the PKCE program to generate a PKCE code verifier and a code challenge for OAuth and OIDC authorization code flow. 
+The PKCE Authorization Code Flow designed to authenticate users of native or mobile applications also it is able to prevent authorization code injection which make it useful for web apps that use a client secret. The calling application introduces a secret in the PKCE Authorization Code Flow that can be verified by the authorization server.
 
 ## Golang
 Check the [Golang installation guide](Golang/Document.md) for instructions to use this application.
