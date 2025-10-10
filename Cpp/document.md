@@ -1,14 +1,14 @@
-## Overview
+# Overview
 
 This project provides a Proof Key for Code Exchange (PKCE) generator in C++, fully compliant with RFC 7636.
 It helps create secure code verifiers and code challenges for OAuth 2.0 and OpenID Connect authorization flows.
 
-## Usage
-# Build Instructions
-# Linux / macOS
+# Usage
+## Build Instructions
+### Linux / macOS
 Ensure OpenSSL development headers are installed:
 ```bash
-    sudo apt install libssl-dev      # Debian/Ubuntu
+sudo apt install libssl-dev      # Debian/Ubuntu
 # or
 brew install openssl             # macOS
 ```
@@ -24,7 +24,7 @@ Run:
 ```
 
 
-# Windows (with vcpkg or prebuilt OpenSSL)
+### Windows (with vcpkg or prebuilt OpenSSL)
 
 Install [Openssl](https://slproweb.com/products/Win32OpenSSL.html) or via [vcpkg](https://github.com/microsoft/vcpkg):
 
