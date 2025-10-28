@@ -27,6 +27,7 @@ Please check the [contributing guide](CONTRIBUTING.md) to become a contributor.
 ## OAuth 
 * [What is the difference between OAuth1 and OAuth2?](https://www.loginradius.com/engineering/blog/what-is-the-difference-between-oauth1-and-oauth2/)
 * [The Simplest Guide To OAuth 2.0](https://medium.com/@darutk/the-simplest-guide-to-oauth-2-0-8c71bd9a15bb)
+* [OAuth 2.0 Security Best Practices: How to Secure OAuth Tokens & Why Use PKCE](https://ssojet.com/blog/oauth-2-0-security-best-practices-how-to-secure-oauth-tokens-and-why-use-pkce)
 ## OpenID
 * [Diagrams of All The OpenID Connect Flows](https://medium.com/@darutk/diagrams-of-all-the-openid-connect-flows-6968e3990660)
-
+* [OpenID Connect (OIDC) Explained](https://ssojet.com/blog/openid-connect-explained)
